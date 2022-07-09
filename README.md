@@ -76,7 +76,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.mode;
+})();
 })();
 </script>
 ```
@@ -132,6 +134,7 @@ v = mode( 0.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var k;
 var v;
@@ -143,6 +146,7 @@ for ( i = 0; i < 10; i++ ) {
     console.log( 'k: %d, mode(X,k): %d', k.toFixed( 4 ), v.toFixed( 4 ) );
 }
 
+})();
 })();
 </script>
 </body>
