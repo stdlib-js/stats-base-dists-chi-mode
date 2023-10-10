@@ -69,7 +69,7 @@ for degrees of freedom `k >= 1`. For other values of `k`, the mode is not define
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.1.1-deno/mod.js';
 ```
 
 #### mode( k )
@@ -117,7 +117,7 @@ v = mode( 0.9 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.1.1-deno/mod.js';
 
 var k;
 var v;
