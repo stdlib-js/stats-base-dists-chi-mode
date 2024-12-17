@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-17)
+
+<section class="features">
+
+### Features
+
+-   [`a6f8779`](https://github.com/stdlib-js/stdlib/commit/a6f8779298b6200a63ad80f40e6769bdf3ccc58d) - add C implementation for `stats/base/dists/chi/mode` [(#3965)](https://github.com/stdlib-js/stdlib/pull/3965)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3494](https://github.com/stdlib-js/stdlib/issues/3494)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a6f8779`](https://github.com/stdlib-js/stdlib/commit/a6f8779298b6200a63ad80f40e6769bdf3ccc58d) - **feat:** add C implementation for `stats/base/dists/chi/mode` [(#3965)](https://github.com/stdlib-js/stdlib/pull/3965) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
