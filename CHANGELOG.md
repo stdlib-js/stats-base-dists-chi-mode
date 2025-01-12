@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-18)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,8 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`998c1be`](https://github.com/stdlib-js/stdlib/commit/998c1be8630c1efcf19beefda88181db820d1dcb) - **chore:** remove EPS addition and directly draw from desired distribution _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
--   [`a6f8779`](https://github.com/stdlib-js/stdlib/commit/a6f8779298b6200a63ad80f40e6769bdf3ccc58d) - **feat:** add C implementation for `stats/base/dists/chi/mode` [(#3965)](https://github.com/stdlib-js/stdlib/pull/3965) _(by Vivek maurya, Philipp Burckhardt)_
+-   [`a6f8779`](https://github.com/stdlib-js/stdlib/commit/a6f8779298b6200a63ad80f40e6769bdf3ccc58d) - **feat:** add C implementation for `stats/base/dists/chi/mode` [(#3965)](https://github.com/stdlib-js/stdlib/pull/3965) _(by Vivek Maurya, Philipp Burckhardt)_
 
 </details>
 
@@ -50,7 +51,7 @@ This release closes the following issue:
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
