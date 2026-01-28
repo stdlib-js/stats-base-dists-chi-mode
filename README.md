@@ -69,7 +69,7 @@ for degrees of freedom `k >= 1`. For other values of `k`, the mode is not define
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.3.0-deno/mod.js';
 ```
 
 #### mode( k )
@@ -117,7 +117,7 @@ v = mode( 0.9 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.3.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
