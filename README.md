@@ -69,7 +69,7 @@ for degrees of freedom `k >= 1`. For other values of `k`, the mode is not define
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.3.0-esm/index.mjs';
 ```
 
 #### mode( k )
@@ -122,7 +122,7 @@ v = mode( 0.9 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
