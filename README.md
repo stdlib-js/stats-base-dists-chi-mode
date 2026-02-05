@@ -69,6 +69,11 @@ for degrees of freedom `k >= 1`. For other values of `k`, the mode is not define
 ## Usage
 
 ```javascript
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-chi-mode/tags). For example,
+
+```javascript
 import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.3.1-esm/index.mjs';
 ```
 
@@ -122,7 +127,7 @@ v = mode( 0.9 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@v0.3.1-esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-mode@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
